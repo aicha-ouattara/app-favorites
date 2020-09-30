@@ -3,7 +3,7 @@
 body
 {
     margin: 0%;
-    background-color: #61C1C6;
+    background-color: #24F4EE;
 }
 
 .nav-container
@@ -114,7 +114,7 @@ p
 
 .tik h1
 {
-    color: #E62056;
+    color: #FE2C55;
 }
 
 .bouton1
@@ -127,7 +127,7 @@ p
 
 .bouton2
 {
-    border: 4px solid #E62056;
+    border: 4px solid #FE2C55;
     border-radius: 30px;
     color: white;
     font-size: 30px;
