@@ -1,0 +1,11 @@
+/* premiere partie du main */
+.tik-container
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.tik
+{
+    margin: 10px;
+}

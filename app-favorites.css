@@ -11,9 +11,16 @@ display: flex;
 flex-direction: row;
 background-color: black;
 opacity: 0.9;
+
 }
 
-.sticky
+.nav-container img
+{
+width: 10%;
+height: 20%;
+}
+
+header
 {
 
     position: -webkit-sticky;
@@ -56,21 +63,33 @@ a:hover
     flex-direction: row;
 }
 
+.tik-container img
+{
+width: 120%;
+height: 120%;
+}
+
 .tik
 {
     padding: 170px;
 }
 
 
-.Wec-container
+.wec-container
 {
     display: flex;
     flex-direction: row;
 }
 
-.Wec
+.wec-container img
 {
-    padding: 170px;
+    width: 120%;
+    height: 120%;
+}
+
+.wec
+{
+   padding: 170px;
 }
 
 .you-container
@@ -79,7 +98,15 @@ a:hover
     flex-direction: row;
 }
 
+.you-container img
+{
+    width: 120%;
+    height: 120%;
+}
+
 .you
 {
     padding: 200px;
 }
+
+
