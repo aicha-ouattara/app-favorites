@@ -1,0 +1,80 @@
+/* header */
+
+.nav-container
+{
+display: flex;
+flex-direction: row;
+background-color: black;
+opacity: 0.9;
+}
+
+.sticky
+{
+
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+a
+{
+    color: #1c9cd8;
+    padding: 30px;
+    text-decoration: none;
+
+}
+
+a:hover
+{
+    color: brown;
+}
+
+.noir
+{
+    padding: 27px;
+    margin-bottom: 100px;
+}
+
+/* footer */
+
+.footer
+{
+    text-align: center;
+
+}
+
+/* section section */
+
+.tik-container
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.tik
+{
+    padding: 170px;
+}
+
+
+.Wec-container
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.Wec
+{
+    padding: 170px;
+}
+
+.you-container
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.you
+{
+    padding: 200px;
+}
