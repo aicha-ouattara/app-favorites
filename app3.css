@@ -1,0 +1,80 @@
+/* header */
+
+body
+{
+    margin: 0%;
+    background-color: #FE0200;
+}
+
+.nav-container
+{
+display: flex;
+flex-direction: row;
+background-color: black;
+opacity: 0.9;
+
+}
+
+.nav-container img
+{
+width: 10%;
+height: 20%;
+}
+
+header
+{
+
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+a
+{
+    color: #1c9cd8;
+    padding: 30px;
+    text-decoration: none;
+
+}
+
+a:hover
+{
+    color: brown;
+}
+
+.noir
+{
+    padding: 27px;
+    margin-bottom: 100px;
+}
+
+/* footer */
+
+.footer
+{
+    text-align: center;
+
+}
+
+
+
+/* main main */
+
+.you-container
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.you-container img
+{
+width: 110%;
+height: 100%;
+}
+
+.you
+{
+    margin: auto;
+    padding: 10%;
+    
+}
