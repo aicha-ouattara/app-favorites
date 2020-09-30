@@ -5,7 +5,31 @@
     flex-direction: row;
 }
 
+.tik-container img
+{
+width: 140%;
+height: 100%;
+margin: 10%;
+}
+
 .tik
 {
-    margin: 10px;
+    margin: auto;
+    padding: 300px;
 }
+
+.tik-container h1
+{
+    font-size: 200%;
+}
+
+.image img
+{
+width: 20%;
+height: 20%;
+padding: 10px;
+}
+
+
+
+
