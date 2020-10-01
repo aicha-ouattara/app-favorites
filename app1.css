@@ -132,3 +132,18 @@ p
     color: white;
     font-size: 30px;
 }
+
+/* images  */
+
+.ap-container img
+{
+
+width: 100%;
+height: 100%;
+}
+
+.ap-container
+{
+   display: flex;
+   flex-direction: row;
+}
