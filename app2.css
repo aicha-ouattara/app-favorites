@@ -61,8 +61,8 @@ a:hover
 
 .we-container img
 {
-    width: 140%;
-    height: 100%;
+    max-width: 90%;
+
 }
 
 .we-container

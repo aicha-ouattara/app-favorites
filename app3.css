@@ -68,8 +68,8 @@ a:hover
 
 .you-container img
 {
-width: 110%;
-height: 100%;
+    max-width: 90%;
+
 }
 
 .you

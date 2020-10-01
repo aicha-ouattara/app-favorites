@@ -2,7 +2,7 @@
 
 body
 {
-    margin: 0%;
+ margin: auto;
 }
 
 .nav-container
@@ -65,8 +65,7 @@ a:hover
 
 .tik-container img
 {
-width: 120%;
-height: 120%;
+max-width: 90%;
 }
 
 .tik
@@ -83,8 +82,8 @@ height: 120%;
 
 .wec-container img
 {
-    width: 120%;
-    height: 120%;
+    max-width: 90%;
+
 }
 
 .wec
@@ -100,8 +99,8 @@ height: 120%;
 
 .you-container img
 {
-    width: 120%;
-    height: 120%;
+    max-width: 90%;
+
 }
 
 .you
