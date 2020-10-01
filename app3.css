@@ -29,7 +29,7 @@ header
     top: 0;
 }
 
-a
+.nav-container a
 {
     color: #1c9cd8;
     padding: 30px;
@@ -53,6 +53,9 @@ a:hover
 .footer
 {
     text-align: center;
+    color: #1c9cd8;
+    padding: 30px;
+    text-decoration: none;
 
 }
 
@@ -79,7 +82,7 @@ a:hover
     
 }
 
-.youtu-container img
+.youtu img
 {
     width: 100%;
     height: 100%;
@@ -96,8 +99,29 @@ a:hover
     text-align: center;
 }
 
-.rara
+.rara-container img
 {
+    width: 90%;
+    height: 90%;
+}
+
+.rara-container 
+{
+    display: flex;
+    flex-direction: row;
     text-align: center;
-    
+}
+
+
+/* Main main devellopement */
+
+.bouton3
+{
+    position: absolute;
+    margin: 65%;
+    right: 0;
+    font-size: 70px;
+
+
+
 }
