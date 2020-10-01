@@ -65,7 +65,7 @@ a:hover
 
 .tik-container img
 {
-max-width: 90%;
+max-width: 100%;
 }
 
 .tik
@@ -82,7 +82,7 @@ max-width: 90%;
 
 .wec-container img
 {
-    max-width: 90%;
+    max-width: 100%;
 
 }
 
@@ -99,7 +99,7 @@ max-width: 90%;
 
 .you-container img
 {
-    max-width: 90%;
+    max-width: 100%;
 
 }
 
@@ -108,4 +108,40 @@ max-width: 90%;
     padding: 200px;
 }
 
+/* article article */
+
+.acimage-container img
+{
+    max-width: 50%;
+
+}
+
+.acimage-container
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.acimage1-container img
+{
+    max-width: 50%;
+}
+
+.acimage1-container 
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.acimage2-container img
+{
+    max-width: 50%;
+}
+
+
+.acimage2-container
+{
+    display: flex;
+    flex-direction: row;
+}
 
