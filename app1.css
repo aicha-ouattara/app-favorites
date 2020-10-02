@@ -10,8 +10,10 @@ body
 {
 display: flex;
 flex-direction: row;
-background-color: black;
+background-color: #FE2C55;
 opacity: 0.9;
+font-family: "Gill Sans", sans-serif;
+
 
 }
 
@@ -31,7 +33,7 @@ header
 
 a
 {
-    color: #1c9cd8;
+    color: white;
     padding: 30px;
     text-decoration: none;
 
@@ -39,7 +41,7 @@ a
 
 a:hover
 {
-    color: brown;
+    color: yellow;
 }
 
 .noir
@@ -53,6 +55,8 @@ a:hover
 .footer
 {
     text-align: center;
+    font-family: "Gill Sans", sans-serif;
+
 
 }
 
@@ -72,6 +76,7 @@ margin: 10%;
 
 .tik
 {
+    font-family: "Gill Sans", sans-serif;
     margin: auto;
     padding: 300px;
 }
@@ -89,8 +94,11 @@ height: 20%;
 
 .image
 {
+    font-family: "Gill Sans", sans-serif;
+    font-size: 30px;
     text-align: center;
-    padding: 5%;
+    color: white;
+
 }
 
 .align
@@ -119,10 +127,12 @@ p
 
 .bouton1
 {
-    
-    border-radius: 30px;
-    color: white;
+    font-family: "Gill Sans", sans-serif;
+    color: black;
     font-size: 30px;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 .bouton2
@@ -148,8 +158,26 @@ height: 100%;
    flex-direction: row;
 }
 
-.titoo img
+.titoo 
 {
-    width: 100%;
-    height: 100%;
+    max-width: 100%;
+    text-align: center;
+    padding: 30px;
+
 }
+
+
+/* Fonts */
+
+
+.applimo
+{
+    font-family: "Gill Sans", sans-serif;
+    padding: 30px;
+}
+.pourquoi
+{
+    font-family: "Gill Sans", sans-serif;
+
+}
+/* position texte et couleur dans le main */

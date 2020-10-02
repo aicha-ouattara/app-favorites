@@ -9,8 +9,9 @@ body
 {
 display: flex;
 flex-direction: row;
-background-color: black;
-opacity: 0.9;
+background-color: #CECCC8;
+opacity: 1,0;
+font-family: Arial Narrow,Arial,sans-serif; 
 
 }
 
@@ -30,7 +31,7 @@ header
 
 a
 {
-    color: #1c9cd8;
+    color: #757472;
     padding: 30px;
     text-decoration: none;
 
@@ -38,7 +39,7 @@ a
 
 a:hover
 {
-    color: brown;
+background-color: black;
 }
 
 .noir
@@ -52,7 +53,12 @@ a:hover
 .footer
 {
     text-align: center;
+    font-family: Arial Narrow,Arial,sans-serif; 
+}
 
+.reseaux
+{
+    padding: 30px;
 }
 
 /* section section */
@@ -61,6 +67,7 @@ a:hover
 {
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 
 .tik-container img
@@ -70,7 +77,10 @@ max-width: 100%;
 
 .tik
 {
-    padding: 170px;
+    padding: 30px;
+	font-family: Geneva,Tahoma,Verdana,sans-serif; 
+    color: #CECCC8;
+
 }
 
 
@@ -78,6 +88,7 @@ max-width: 100%;
 {
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 
 .wec-container img
@@ -88,13 +99,16 @@ max-width: 100%;
 
 .wec
 {
-   padding: 170px;
+   font-family: Geneva,Tahoma,Verdana,sans-serif; 
+   color: #CECCC8;
+   padding: 30px;
 }
 
 .you-container
 {
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 
 .you-container img
@@ -105,7 +119,9 @@ max-width: 100%;
 
 .you
 {
-    padding: 200px;
+	font-family: Geneva,Tahoma,Verdana,sans-serif; 
+    padding: 30px;
+    color: #CECCC8;
 }
 
 /* article article */
@@ -140,4 +156,11 @@ max-width: 100%;
 {
     display: flex;
     flex-direction: row;
+}
+
+.boutolo
+{
+    border: 1px solid #CECCC8;
+    padding: 10px;
+    border-radius: 10px;
 }
