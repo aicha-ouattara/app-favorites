@@ -41,7 +41,7 @@ a
 
 a:hover
 {
-    color: brown;
+    color: yellow;
 }
 
 .noir
@@ -56,12 +56,11 @@ a:hover
 {
     text-align: center;
     font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; 
-
-
+    padding: 20px;
 }
 
 
-/* main */
+/* main main main couleur font size position*/
 
 .we-container img
 {
@@ -170,6 +169,10 @@ a:hover
 {
     padding: 25%;
 }
+.goo-container a
+{
+ padding: 15px;
+}
 
 .boutola
 
@@ -181,4 +184,13 @@ a:hover
 .fintext
 {
 background-color: rgb(21, 175, 7);
+}
+
+.bouton3
+{
+color: yellow;
+font-size: 30px;
+border: 1px solid yellow;
+padding: 10px;
+border-radius: 10px;
 }
