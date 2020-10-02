@@ -43,11 +43,7 @@ a:hover
     color: yellow;
 }
 
-.noir
-{
-    padding: 27px;
-    margin-bottom: 100px;
-}
+
 
 /* footer */
 
@@ -63,7 +59,7 @@ a:hover
 
 .we-container img
 {
-    max-width: 100%;
+    max-width: 90%;
 
 }
 
@@ -73,21 +69,13 @@ a:hover
     flex-direction: row;
     font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif; 
     color: white;
+    align-items: center;
+    padding: 30px;
 }
 
 
 
-.we{
-    margin: auto;
-    padding: 5%;
-    
-}
 
-.we2
-{
-    margin: auto;
-    padding: 10%;
-}
 
 .chacha-container img
 {
