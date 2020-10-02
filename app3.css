@@ -31,9 +31,11 @@ header
 
 .nav-container a
 {
-    color: #1c9cd8;
+    color: white;
     padding: 30px;
     text-decoration: none;
+    font-family: 'Bangers', cursive;
+
 
 }
 
@@ -79,6 +81,10 @@ a:hover
 {
     margin: auto;
     padding: 10%;
+    font-family: 'Bangers', cursive;
+    font-size: 45px;
+    text-shadow: 7px 1px 7px yellow;
+
     
 }
 
@@ -97,6 +103,10 @@ a:hover
 .youta-container
 {
     text-align: center;
+    font-family: 'Bangers', cursive;
+     font-size: 50px;
+     text-shadow: 7px 1px 7px yellow;
+
 }
 
 .rara-container img
@@ -110,6 +120,8 @@ a:hover
     display: flex;
     flex-direction: row;
     text-align: center;
+    font-family: 'Carter One', cursive;
+
 }
 
 

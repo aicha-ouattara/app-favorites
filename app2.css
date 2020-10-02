@@ -10,7 +10,9 @@ body
 {
 display: flex;
 flex-direction: row;
-background-color: black;
+background-color: rgb(21, 175, 7);
+font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; 
+
 opacity: 0.9;
 
 }
@@ -31,7 +33,7 @@ header
 
 a
 {
-    color: #1c9cd8;
+    color: white;
     padding: 30px;
     text-decoration: none;
 
@@ -53,6 +55,8 @@ a:hover
 .footer
 {
     text-align: center;
+    font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; 
+
 
 }
 
@@ -69,6 +73,8 @@ a:hover
 {
     display: flex;
     flex-direction: row;
+    font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif; 
+    color: white;
 }
 
 
@@ -89,12 +95,16 @@ a:hover
 {
     width: 20%;
     height: 20%;
+    border-radius: 20px;
 }
 
 
 .chacha-container
 {
     text-align: center;
+    font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif; 
+
+    
 }
 
 .align1 img
@@ -106,12 +116,17 @@ a:hover
 .align1
 {
     text-align: center;
+    font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif; 
+
 }
 
 .fin
 {
     text-align: center;
     padding: 5%;
+    font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif; 
+    background-color: rgb(21, 175, 7);
+
 }
 
 .wecha-container img
@@ -154,4 +169,16 @@ a:hover
 .goo-container p
 {
     padding: 25%;
+}
+
+.boutola
+
+{
+    padding: 0.1px;
+    border-radius: 5px;
+}
+
+.fintext
+{
+background-color: rgb(21, 175, 7);
 }
