@@ -9,10 +9,10 @@ body
 {
 display: flex;
 flex-direction: row;
-background-color: #CECCC8;
-opacity: 1,0;
-font-family: Arial Narrow,Arial,sans-serif; 
+background-color: #A6A6A6;
+opacity: 0.8;
 
+font-family: 'Palanquin', sans-serif;;
 }
 
 .nav-container img
@@ -31,7 +31,7 @@ header
 
 a
 {
-    color: #757472;
+    color: black;
     padding: 30px;
     text-decoration: none;
 
@@ -39,7 +39,7 @@ a
 
 a:hover
 {
-background-color: black;
+background-color: #808080;
 }
 
 .noir
@@ -53,15 +53,14 @@ background-color: black;
 .footer
 {
     text-align: center;
-    font-family: Arial Narrow,Arial,sans-serif; 
-}
+    font-family: 'Palanquin', sans-serif;}
 
 .reseaux
 {
     padding: 30px;
 }
 
-/* section section */
+/* main main */
 
 .tik-container
 {

@@ -143,9 +143,11 @@ p
     border-radius: 30px;
     color: white;
     font-size: 30px;
+    font-family: "Gill Sans", sans-serif;
+
 }
 
-/* images  */
+/* images  et position*/
 
 .ap-container img
 {
@@ -182,4 +184,3 @@ height: 100%;
     font-family: "Gill Sans", sans-serif;
 
 }
-/* position texte et couleur dans le main */

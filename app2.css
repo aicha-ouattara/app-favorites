@@ -11,8 +11,7 @@ body
 display: flex;
 flex-direction: row;
 background-color: rgb(21, 175, 7);
-font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; 
-
+font-family: 'Roboto Slab', serif;
 opacity: 0.9;
 
 }
@@ -55,7 +54,7 @@ a:hover
 .footer
 {
     text-align: center;
-    font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; 
+    font-family: 'Roboto Slab', serif;
     padding: 20px;
 }
 
@@ -102,6 +101,7 @@ a:hover
 {
     text-align: center;
     font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif; 
+    padding: 30px;
 
     
 }
@@ -157,6 +157,11 @@ a:hover
     display: flex;
     flex-direction: row;
     text-align: center;
+    align-items: center;
+}
+.textwe
+{
+    padding: 10px;
 }
 
 .goo-container img
@@ -165,10 +170,7 @@ a:hover
     height: 100%;
 }
 
-.goo-container p
-{
-    padding: 25%;
-}
+
 .goo-container a
 {
  padding: 15px;
@@ -193,4 +195,9 @@ font-size: 30px;
 border: 1px solid yellow;
 padding: 10px;
 border-radius: 10px;
+}
+
+.bouton3:hover
+{
+  color: black;
 }
