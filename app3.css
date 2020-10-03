@@ -67,9 +67,7 @@ a:hover
 }
 
 
-
 /* main main */
-
 .you-container
 {
     display: flex;
@@ -79,10 +77,9 @@ a:hover
 .you-container img
 {
     max-width: 90%;
-
 }
-.you-container a
 
+.you-container a
 {
 border: 1px solid yellow;
 padding: 10px;
@@ -148,21 +145,13 @@ color: white;
     box-shadow: 2px 1px 12px yellow;
 }
 
-.rara-container a
-{
-    text-decoration: none;
+ .telecharger-container
+ {
     position: absolute;
-    margin: 65%;
-    right: 0;
-    font-family: 'Carter One', cursive;
-    text-shadow: 2px 1px 7px yellow;
-    border: 1px solid yellow;
-    font-size: 60px;
-    border-radius: 10px;
-    background-color: white;
-    color: pink;
-}
+    margin : 35%;
+ }
 
+ 
 
 
 
